@@ -20,3 +20,5 @@
     - [Chained Conditionals](./part8/tutorial.go)
   - If, Else if, Else
     - [If statement](./part9/tutorial.go)
+  - For Loops & While Loops
+    - [for loops](./part10/tutorial.go)

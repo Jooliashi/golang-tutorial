@@ -12,3 +12,5 @@
     - [Sprintf() vs Println() vs Printf()](./part4/tutorial.go)
   - Console Input
     - [Bufio Scanner & Type Conversion](./part5/tutorial.go)
+  - Arithmetic Operators
+    - [Math: Same Type Operations Only](./part6/tutorial.go)

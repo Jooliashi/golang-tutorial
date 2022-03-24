@@ -16,3 +16,5 @@
     - [Math: Same Type Operations Only](./part6/tutorial.go)
   - Conditions and Boolean Expressions
     - [Conditionals: Same Type Comparisons Only](./part7/tutorial.go)
+  - Chained Conditionals
+    - [Chained Conditionals](./part8/tutorial.go)

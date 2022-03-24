@@ -18,3 +18,5 @@
     - [Conditionals: Same Type Comparisons Only](./part7/tutorial.go)
   - Chained Conditionals
     - [Chained Conditionals](./part8/tutorial.go)
+  - If, Else if, Else
+    - [If statement](./part9/tutorial.go)

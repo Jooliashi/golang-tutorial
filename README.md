@@ -22,3 +22,5 @@
     - [If statement](./part9/tutorial.go)
   - For Loops & While Loops
     - [for loops](./part10/tutorial.go)
+  - Switch Statement
+    - [switch statement](./part11/tutorial.go)

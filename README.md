@@ -6,3 +6,5 @@
     - [Basic Go file](./part1/tutorial.go)
   - Variables & Data Types
     - [Declare Variables](./part2/tutorial.go)
+  - Assignment Expression & Implicit vs Explicit
+    - [Implicit vs Explicit Assignment](./part3/tutorial.go)

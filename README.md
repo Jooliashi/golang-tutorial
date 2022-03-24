@@ -4,3 +4,5 @@
 ## Table of Content
   - An Introduction to Go Programming
     - [Basic Go file](./part1/tutorial.go)
+  - Variables & Data Types
+    - [Declare Variables](./part2/tutorial.go)

@@ -10,3 +10,5 @@
     - [Implicit vs Explicit Assignment](./part3/tutorial.go)
   - Printing to Console & fmt
     - [Sprintf() vs Println() vs Printf()](./part4/tutorial.go)
+  - Console Input
+    - [Bufio Scanner & Type Conversion](./part5/tutorial.go)

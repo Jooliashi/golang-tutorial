@@ -8,3 +8,5 @@
     - [Declare Variables](./part2/tutorial.go)
   - Assignment Expression & Implicit vs Explicit
     - [Implicit vs Explicit Assignment](./part3/tutorial.go)
+  - Printing to Console & fmt
+    - [Sprintf() vs Println() vs Printf()](./part4/tutorial.go)

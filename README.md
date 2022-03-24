@@ -14,3 +14,5 @@
     - [Bufio Scanner & Type Conversion](./part5/tutorial.go)
   - Arithmetic Operators
     - [Math: Same Type Operations Only](./part6/tutorial.go)
+  - Conditions and Boolean Expressions
+    - [Conditionals: Same Type Comparisons Only](./part7/tutorial.go)

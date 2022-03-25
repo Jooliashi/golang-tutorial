@@ -26,3 +26,5 @@
     - [switch statement](./part11/tutorial.go)
   - Arrays
     - [Arrays](./part12/tutorial.go)
+  - Slices
+    - [Slices](./part13/tutorial.go)

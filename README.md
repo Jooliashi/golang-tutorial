@@ -28,3 +28,5 @@
     - [Arrays](./part12/tutorial.go)
   - Slices
     - [Slices](./part13/tutorial.go)
+  - Range & Slice/Array Examples
+    - [Range](./part14/tutorial.go)

@@ -24,3 +24,5 @@
     - [for loops](./part10/tutorial.go)
   - Switch Statement
     - [switch statement](./part11/tutorial.go)
+  - Arrays
+    - [Arrays](./part12/tutorial.go)

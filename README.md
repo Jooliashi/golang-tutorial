@@ -32,3 +32,5 @@
     - [Range](./part14/tutorial.go)
   - Maps
     - [Maps](./part15/tutorial.go)
+  - Functions
+    - [Functions, defers](./part16/tutorial.go)

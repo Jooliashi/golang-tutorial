@@ -20,4 +20,6 @@ func main() {
 
 	val, ok := mp["apple"]
 	fmt.Println(val, ok)
+
+	fmt.Println(len(mp))
 }

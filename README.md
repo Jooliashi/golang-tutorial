@@ -42,3 +42,7 @@
     - [Pointers & Dereference Operator & and *](./part19/tutorial.go)
   - Struct
     - [Struct and Custom Types](./part20/tutorial.go)
+  - Struct Methods
+    - [Struct Methods](./part21/tutorial.go)
+  - Interfaces 
+    - [Interfaces](./part22/tutorial.go)

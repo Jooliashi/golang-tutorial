@@ -38,4 +38,5 @@
     - [Advanced Functions](./part17/tutorial.go)
   - Mutable & Immutable Data Types
     - [Mutable & Immutable Data Types](./part18/tutorial.go)
-  
+  - Pointers
+    - [Pointers & Dereference Operator & and *](./part19/tutorial.go)

@@ -34,3 +34,5 @@
     - [Maps](./part15/tutorial.go)
   - Functions
     - [Functions, defers](./part16/tutorial.go)
+  -Advanced Function Concepts & Function Closures
+    - [Advanced Functions](./part17/tutorial.go)

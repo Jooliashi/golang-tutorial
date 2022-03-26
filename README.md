@@ -36,3 +36,6 @@
     - [Functions, defers](./part16/tutorial.go)
   -Advanced Function Concepts & Function Closures
     - [Advanced Functions](./part17/tutorial.go)
+  - Mutable & Immutable Data Types
+    - [Mutable & Immutable Data Types](./part18/tutorial.go)
+  

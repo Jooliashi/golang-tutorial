@@ -30,3 +30,5 @@
     - [Slices](./part13/tutorial.go)
   - Range & Slice/Array Examples
     - [Range](./part14/tutorial.go)
+  - Maps
+    - [Maps](./part15/tutorial.go)

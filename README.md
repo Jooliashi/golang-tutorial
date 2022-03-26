@@ -40,3 +40,5 @@
     - [Mutable & Immutable Data Types](./part18/tutorial.go)
   - Pointers
     - [Pointers & Dereference Operator & and *](./part19/tutorial.go)
+  - Struct
+    - [Struct and Custom Types](./part20/tutorial.go)
